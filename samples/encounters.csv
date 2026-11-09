@@ -1,0 +1,4 @@
+encounter_id,synthetic_patient_id,status,start
+enc-01,synthetic-01,finished,2026-01-01T10:00:00Z
+enc-02,synthetic-02,in-progress,2026-01-02T09:15:00Z
+enc-03,synthetic-03,unknown,2026-01-02T10:00:00Z
